@@ -23,7 +23,7 @@ open Cmd from backend folder
 Bash : npm start
 Backend run Scucessfully !!
 
-Now Frotend and Backend are connected Sucessfully !!
+Now Frotend and Backend are connected Sucessfully
 
 step 3 :
 connect the MongoDB to get the Database :
