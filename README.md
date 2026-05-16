@@ -13,7 +13,7 @@ NOW FOLLOW STEPS TO RUN MY PROJECT
 STEP 1:
 Open frontend folder and open cmd 
 Bash : npm install
-       npm run dev 
+       npm start 
 You will see my web host link run that { http://localhost:5173/ } !!
 Now froentend is running Sucessfully !!
 
